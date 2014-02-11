@@ -22,5 +22,12 @@ A directory of tests.
 #### tools
 A directory of tools used for pre- and post-processing.  
 
+## Setting up your repo
+1.  Fork the BPA_304 repo: *done by clicking on the `Fork` button in the upper right corner*
+2.  Clone your fork: `git clone git@github.com:{username}/BPA_304.git`
+3.  Add UW-Hydro as the upstream remote: `git remote add upstream git@github.com:UW-Hydro/BPA_304.git`
+3.  Get submodules: `./setup.bash`
+4.  Get to work!
+
 ### Contact:
 Bart Nijssen: nijssen at uw.edu
