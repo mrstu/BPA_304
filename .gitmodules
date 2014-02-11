@@ -1,0 +1,12 @@
+[submodule "models/vic"]
+	path = models/vic
+	url = git://github.com/UW-Hydro/VIC.git
+[submodule "models/ulm"]
+	path = models/ulm
+	url = git://github.com/UW-Hydro/ULM.git
+[submodule "models/rvic"]
+	path = models/rvic
+	url = git://github.com/jhamman/RVIC.git
+[submodule "models/prms"]
+	path = models/prms
+	url = git://github.com/jhamman/PRMS.git
